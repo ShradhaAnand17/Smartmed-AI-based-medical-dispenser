@@ -26,20 +26,12 @@ This project exemplifies the application of healthcare analytics, AI-driven deci
 3. Analyze patient symptom data and system utilization patterns  
 4. Generate insights to optimize dispensing protocols and improve patient safety  
 
-## Results
-![Homepage & User Registration](Home Page & Registration.png)
-![Demographics Imput](Demographics input.png)
-![Symptom Promt](Symptom promt.png)
-![Follow-up Questions](Follow-up questions.png)
-![Medicine Recommendation](Medicine Recommendation.png)
-![Red Flag Disclaimer](Red flag Symptoms Disclaimer.png)
-![Admin Dashboard](Admin Dashboard.png)
-
 ## Relevance to Healthcare Analytics
 - Demonstrates AI-driven clinical decision support  
 - Enables analysis of symptom-medication patterns for population-level insights  
 - Integrates predictive analytics with patient-specific safety rules  
 - Offers a foundation for research in **personalized medicine, digital therapeutics, and bioinformatics-driven healthcare systems**  
+
 
 
 
