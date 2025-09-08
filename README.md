@@ -29,8 +29,10 @@ This project exemplifies the application of healthcare analytics, AI-driven deci
 ## Results
 ![Homepage & User Registration](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/412ca1b0bcc22acd19e22334b88ba816b7b486f6/Home%20Page%20%26%20Registration.png)
 ![Red flag Symptom Disclaimer](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/412ca1b0bcc22acd19e22334b88ba816b7b486f6/Red%20flag%20Symptoms%20Disclaimer.png)
-![Red flag Symptom Disclaimer](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/412ca1b0bcc22acd19e22334b88ba816b7b486f6/Red%20flag%20Symptoms%20Disclaimer.png)
-
+![Demographics Input](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/6dbc672186daa37b610a1caf01ccead6ec229403/Demographics%20input.png)
+![Symptom Prompt](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/6dbc672186daa37b610a1caf01ccead6ec229403/Symptom%20promt.png)
+![Follow-up Questions](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/6dbc672186daa37b610a1caf01ccead6ec229403/Follow-up%20questions.png)
+![Medicine Recommendation](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/6dbc672186daa37b610a1caf01ccead6ec229403/Medicine%20Recommendation.png)
 ![Admin Dashboard](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/9dda9917ce66d98b1ba3219d332a7585ce3e39f8/Admin%20Dashboard.png)
 
 
@@ -39,6 +41,7 @@ This project exemplifies the application of healthcare analytics, AI-driven deci
 - Enables analysis of symptom-medication patterns for population-level insights  
 - Integrates predictive analytics with patient-specific safety rules  
 - Offers a foundation for research in **personalized medicine, digital therapeutics, and bioinformatics-driven healthcare systems**  
+
 
 
 
