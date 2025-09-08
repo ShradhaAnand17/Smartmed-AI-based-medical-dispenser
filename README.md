@@ -27,13 +27,13 @@ This project exemplifies the application of healthcare analytics, AI-driven deci
 4. Generate insights to optimize dispensing protocols and improve patient safety
 
 ## Results
-![Admin Dashboard]([http://url/to/img.png](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/clean-main/Admin%20Dashboard.png?raw=true))
-
+![Admin Dashboard](https://github.com/ShradhaAnand17/Smartmed-AI-based-medical-dispenser/blob/9dda9917ce66d98b1ba3219d332a7585ce3e39f8/Admin%20Dashboard.png)
 ## Relevance to Healthcare Analytics
 - Demonstrates AI-driven clinical decision support  
 - Enables analysis of symptom-medication patterns for population-level insights  
 - Integrates predictive analytics with patient-specific safety rules  
 - Offers a foundation for research in **personalized medicine, digital therapeutics, and bioinformatics-driven healthcare systems**  
+
 
 
 
